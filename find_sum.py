@@ -7,4 +7,3 @@ B = 2
 SUM = A + B
 
 print(SUM)
-print("Sudhanva M S")
