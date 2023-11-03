@@ -37,3 +37,5 @@ jobs:
     - name: Python application
       run: |
         python find_sum.py
+        python FCalculator.py
+        python test_calculator.py
